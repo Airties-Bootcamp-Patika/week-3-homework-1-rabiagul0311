@@ -26,7 +26,7 @@ continuous Devops yaşam döngüsüne baktığımızda 7 madde sayabiliriz.
 4. Continuous Monitoring - Denetleme
 5. Continuous Feedback
 6. Continuous Deployment - Son ortam olan production servera deploy aşamasıdır. 
-7. Continuous Operations
+7. Continuous Operations <br />
 Buradan özetleyecek olursak;
 Geliştirilecek olan uygulamanın planlanması, kodlanması, versiyonlanması ve yayınlanması, update edilmesi, test sürecine
 geçilmesi, uygulama ortamının oluşturulması ve uygulama denetimini gerçekleştirmek gibi basamakları barındıran yaşam
