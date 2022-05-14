@@ -20,15 +20,15 @@ Devops kelimesi Development ve Operations kelimelerinden türemiştir. Bilgi Tek
 birim olan Developers ve Operations ekiplerinin bir arada etkili bir iletişim içerisinde beraber çalışmalarını hedefler.
 Uygulama geliştirme yaşam döngüsünü yüksek verimlilik ile sonuç üretme odaklı giderek kısaltmayı hedefler. Sürekli yani
 continuous Devops yaşam döngüsüne baktığımızda 7 madde sayabiliriz. 
-1- Continuous Development - Bu madde döngüdeki plan ve code basamaklarını kapsar. 
-2- Continuous Integration - Bu madde ise çalışma kopyasının günlük entegrasyonunu hedefler. 
-3- Continuous Testing
-4- Continuous Monitoring - Denetleme
-5- Continuous Feedback
-6- Continuous Deployment - Son ortam olan production servera deploy aşamasıdır. 
-7- Continuous Operations
-Buradan özetleyecek olursak;
-Geliştirilecek olan uygulamanın planlanması, kodlanması, versiyonlanması ve yayınlanması, update edilmesi, test sürecine
+    1- Continuous Development - Bu madde döngüdeki plan ve code basamaklarını kapsar. 
+    2- Continuous Integration - Bu madde ise çalışma kopyasının günlük entegrasyonunu hedefler. 
+    3- Continuous Testing
+    4- Continuous Monitoring - Denetleme
+    5- Continuous Feedback
+    6- Continuous Deployment - Son ortam olan production servera deploy aşamasıdır. 
+    7- Continuous Operations
+    Buradan özetleyecek olursak;
+    Geliştirilecek olan uygulamanın planlanması, kodlanması, versiyonlanması ve yayınlanması, update edilmesi, test sürecine
 geçilmesi, uygulama ortamının oluşturulması ve uygulama denetimini gerçekleştirmek gibi basamakları barındıran yaşam
 döngüsünü temsil  eder.
 
