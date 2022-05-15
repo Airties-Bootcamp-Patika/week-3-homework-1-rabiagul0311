@@ -17,13 +17,15 @@ erişerek işlem yaptığı uygulamalar olabileceği gibi son kullanıcıya kapa
 erişmek için kullandığı sunucular da olabilir.
 ### 5. CVCS - DVCS
 Birden fazla kişinin bir proje üzerinde etkin çalışması için ortaya atılmış versiyonlama sistemidir. CVS, SVN birer 
-merkezi versiyon kontrol sistemleridir. Bu sistemde proje ortak bir respository’de tutulur ve birden fazla geliştirici 
+merkezi versiyon kontrol sistemleridir. 
+Bu sistemde proje ortak bir respository’de tutulur ve birden fazla geliştirici 
 aynı respository üzerinde checkout ve commit işlemlerini gerçekleştirmektedir. Bu yöntemde herkesin projeye katkı 
 sağlamasının yanısıra bazı ciddi sorunları vardır. Tek merkezli sunucu 1 saatliğine arızalanması durumunda, kullanıcılar
 1 saat boyunca çalışmalarını veya çalıştıkları projenin sürümlenmiş kopyalarını kaydetmeleri mümkün olmayacaktır.
 Merkez versiyon sistemlerinin geliştiricilerin offline çalışabilmesi ve respository’nin zarar görmesi durumunda geri 
 getirme gibi eksikliklerinden dolayı ortaya atılmış bir versiyon sistemidir. Git, Mercurial, BitKeeper… dağıtık versiyon
-sistemleri örnek gösterilebilir. Bu sistemlerde merkezi bir respository olmayıp, proje üzerinde çalışan her makine, 
+sistemleri örnek gösterilebilir. 
+Bu sistemlerde merkezi bir respository olmayıp, proje üzerinde çalışan her makine, 
 projenin kopyasını kendi yerel bilgisayarında tutmaktadır. Geliştiriciler proje üzerinde değişiklik yapmak veya proje 
 geçmişine göz atmak istediklerinde, uzak depo ile iletişime geçmek zorunda değildir. Sunuculardan biri çökerse ve o 
 sunucu üzerinde ortak çalışma yürüten sistemler varsa, geliştircilerden birinin projeyi sunucuya geri yükleyerek sistem 
