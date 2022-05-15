@@ -24,6 +24,7 @@ listelenebilir;
 3. 3xx - Yönlendirme
 4. 4xx - Tarayıcı Hatası
 5. 5xx - Sunucu Hatası <br/>
+
 Https'in açılımı ise “Secure Hyper Text Transfer Protocol”dür. Https, Http'nin güvenli veri aktarımı düzeyinin 
 arttırılmış biçimidir. 
 
